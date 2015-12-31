@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B23726F6-ECFF-4F55-907D-767A94E5CC83</string>
+	<key>IDESourceControlProjectName</key>
+	<string>91助手</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F947D5F24C2256BCC831CE9A80A1BBB6CBD3F4B7</key>
+		<string>https://git.oschina.net/Sycjyy/iPoneAssistant</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>91助手/91助手.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F947D5F24C2256BCC831CE9A80A1BBB6CBD3F4B7</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/Sycjyy/iPoneAssistant</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F947D5F24C2256BCC831CE9A80A1BBB6CBD3F4B7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F947D5F24C2256BCC831CE9A80A1BBB6CBD3F4B7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iPoneAssistant</string>
+		</dict>
+	</array>
+</dict>
+</plist>
